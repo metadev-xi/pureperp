@@ -65,4 +65,4 @@ PurePerp provides a comprehensive API surface for both frontend interactions and
 
 <!-- Last Activity: 2026-01-29T11:12:52.356Z -->
 
-<!-- Last Activity: 2026-02-18T16:11:55.832Z -->
+<!-- Last Activity: 2026-02-18T17:11:59.267Z -->
